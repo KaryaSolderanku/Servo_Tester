@@ -1,7 +1,7 @@
 # Servo_Tester
 Sketch Arduino untuk tes servo
 
-##Skema:
+## Skema:
 
 [<img src="https://github.com/KaryaSolderanku/Servo_Tester/blob/master/Schematic.jpg?raw=true" width="500" align="center">]
 
