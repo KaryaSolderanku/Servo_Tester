@@ -7,4 +7,4 @@ Sketch Arduino untuk tes servo
 
 Subscribe Channel Youtube [Karya Solderanku](https://youtube.com/karyasolderanku)
 
-Instagram [Karya Solderanku](https://instagram.com/karyasolderanku)
+Follow Instagram [Karya Solderanku](https://instagram.com/karyasolderanku)
